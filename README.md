@@ -508,34 +508,6 @@ name: "Voice Name"
 
 ---
 
-## 🤝 Contributing
-
-Contributions are welcome! Please follow these steps:
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
----
-
-## 🙏 Acknowledgments
-
-- **Anthropic** for Claude API
-- **ElevenLabs** for Voice API
-- **D3.js** for graph visualization
-- **Chart.js** for analytics charts
-- **Flask** for backend framework
-
----
-
 ## 👥 Authors
 
 **oneOS Development Team**
@@ -544,35 +516,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - **Suketh Ankeshwar** - Developer
 - **Sidharth Bhangale** - Developer
 - **Nikhil Potluri** - Developer
-
-## 📧 Contact
-
-**Kasyap Varanasi**
-
-- GitHub: [@Kasyap3](https://github.com/Kasyap3)
-- Repository: [agentic_os_fe_sim](https://github.com/Kasyap3/agentic_os_fe_sim)
-
----
-
-## 🎯 Roadmap
-
-- [ ] Real cloud provider integration
-- [ ] Multi-user support
-- [ ] Advanced AI agent capabilities
-- [ ] Mobile responsive design
-- [ ] Plugin system for custom apps
-- [ ] Real-time collaboration
-- [ ] Advanced security features
-
----
-
-<div align="center">
-
-**Made with ❤️ by the oneOS Development Team**
-
-**Kasyap Varanasi, Suketh Ankeshwar, Sidharth Bhangale, Nikhil Potluri**
-
-⭐ Star this repo if you find it interesting!
-
-</div>
 
