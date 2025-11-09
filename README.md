@@ -536,6 +536,15 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ---
 
+## 👥 Authors
+
+**oneOS Development Team**
+
+- **Kasyap Varanasi** - Lead Developer
+- **Suketh Ankeshwar** - Developer
+- **Sidharth Bhangale** - Developer
+- **Nikhil Potluri** - Developer
+
 ## 📧 Contact
 
 **Kasyap Varanasi**
@@ -559,7 +568,9 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 <div align="center">
 
-**Made with ❤️ by Kasyap Varanasi**
+**Made with ❤️ by the oneOS Development Team**
+
+**Kasyap Varanasi, Suketh Ankeshwar, Sidharth Bhangale, Nikhil Potluri**
 
 ⭐ Star this repo if you find it interesting!
 
