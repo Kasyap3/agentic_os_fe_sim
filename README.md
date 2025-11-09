@@ -160,12 +160,30 @@ pip install -r requirements.txt
 
 ### Step 3: Configure API Keys
 
-Edit `ai_server.py` and add your API keys:
+**Option 1: Environment Variables (Recommended)**
+
+Set environment variables:
+
+```bash
+# On macOS/Linux:
+export ANTHROPIC_API_KEY="your-claude-api-key-here"
+export ELEVENLABS_API_KEY="your-elevenlabs-api-key-here"  # Optional
+
+# On Windows:
+set ANTHROPIC_API_KEY=your-claude-api-key-here
+set ELEVENLABS_API_KEY=your-elevenlabs-api-key-here
+```
+
+**Option 2: Direct Configuration**
+
+Edit `ai_server.py` and replace the placeholder values:
 
 ```python
-ANTHROPIC_API_KEY = "your-claude-api-key-here"
-ELEVENLABS_API_KEY = "your-elevenlabs-api-key-here"  # Optional
+CLAUDE_API_KEY = os.environ.get('ANTHROPIC_API_KEY', 'your-claude-api-key-here')
+ELEVENLABS_API_KEY = os.environ.get('ELEVENLABS_API_KEY', 'your-elevenlabs-api-key-here')
 ```
+
+**⚠️ Security Note**: Never commit API keys to version control. Always use environment variables or `.env` files (which should be in `.gitignore`).
 
 ### Step 4: Start the Backend Server
 
